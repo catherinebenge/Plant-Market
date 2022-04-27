@@ -1,0 +1,78 @@
+.product{
+    width:44.5%!important;
+    padding:1%;
+    margin:1.5%;
+    position: relative;
+    }
+.img{
+}
+.popup{
+
+}
+.title{
+    font-size:200%;
+    
+}
+
+#hamburger{
+    z-index: 10;
+    font-size: 200%;
+    position: inherit;
+    left:20px;
+    top:10px;
+}
+
+.cont{
+  height: 100%!important;
+  width: 0;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s!important;
+  padding-top: 60px;
+}
+
+#content{
+    padding-top:0px;
+    transition: none;
+}
+
+#content{
+    padding-top:0px;
+    transition: none!important;
+}
+
+/*other pages*/
+
+#form-content{
+    padding-top:0px;
+    transition: none!important;
+    margin:0% 10%;
+    width:80%;
+    text-align: center;
+}
+
+#mobile-links{
+    float:left;
+    margin:0px!important;
+}
+#mobile-links li{
+    padding: 10px 50px 50px 0px;
+    transition:color .3s;
+}
+#mobile-links li a:hover{
+    color: #1A9B2C;
+}
+.cont span{
+    margin:30px!important;
+    font-size: 110%;
+    float:right;
+
+}
+.cont ul{
+    margin:20px;
+}
+
